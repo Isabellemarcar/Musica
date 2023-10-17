@@ -1,0 +1,175 @@
+body {
+
+  margin: 0;
+
+  font-family: 'Young Serif', serif;
+
+  text-align: center;
+
+  background-image: url('img\ 4.png');
+
+  background-size: cover;
+
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
+
+}
+
+
+
+
+
+
+
+header {
+
+  background-color:#040504;
+
+  color: #10e771;
+
+  padding: 1em;
+
+}
+
+
+
+
+
+
+
+main {
+
+  margin: 0 auto;
+
+  padding: 1em;
+
+  font-size: 24px;
+
+}
+
+
+
+
+
+
+
+form {
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+
+}
+
+
+
+
+
+label {
+
+  margin: 0;
+
+  font-family: 'Young Serif', serif;
+
+  color: #161515;
+
+}
+
+
+
+
+
+
+
+input[type="text"] {
+
+  padding: 0.5em;
+
+  font-size: 1.2em;
+
+  border-radius: 5px;
+
+  border: 1px solid #100f0f;
+
+  margin-bottom: 1em;
+
+
+
+}
+
+
+
+
+
+
+
+button[type="submit"] {
+
+  background-color: #080908;
+
+  color: #10e771;
+
+  padding: 0.5em;
+
+  border-radius: 5px;
+
+  border: none;
+
+  font-family: 'Young Serif', serif;
+
+  font-size: 1.2em;
+
+  cursor: pointer;
+
+  transition: background-color 0.2s ease;
+
+
+
+}
+
+
+
+
+
+button[type="submit"]:hover {
+
+  background-color: #363936;
+
+}
+
+
+
+
+
+
+
+
+
+img{
+
+  width: 100%;
+
+  height: 200px;
+
+}
+
+
+
+
+
+
+
+div {
+
+  width: 20%;
+
+  display: inline-block;
+
+  margin-top: 10%;
+
+
+
+}
